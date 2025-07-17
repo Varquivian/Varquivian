@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 -  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I'm currently learning graphic design, neuroscience, and physiology.
+- 🔭 I’m currently working on trying to consolidate my coding skills
+- 🌱 I'm currently learning graphic design, neuroscience, and physiology
+- 😄 They/them
 
-😄 They/them.
-
-🔭 I’m currently working on trying to consolidate my coding skills.
