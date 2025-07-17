@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I'm currently learning graphic design, neuroscience, and physiology.
+
 😄 They/them.
+
 🔭 I’m currently working on trying to consolidate my coding skills.
